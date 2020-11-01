@@ -2,6 +2,9 @@
 
 A Home Assistant theme inspired on Github.
 
+### Screenshots
+![Github Light](https://github.com/einschmidt/github_light_theme/blob/main/images/theme_light.png)
+
 ### Preparation
 1. Make sure that under the **configuration.yaml** file you have the following:
 
