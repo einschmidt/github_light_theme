@@ -1,21 +1,22 @@
 # Theme based on Github
 # Creator: @einschmidt
 #
+#
 Github Light Theme:
   # Header:
   app-header-background-color: "#24292e"
   app-header-text-color: "#fafbfc"
   # Main Interface Colors
-  primary-color: "#2188ff"
-  light-primary-color: var(--primary-color)
+  primary-color: "#0366d6"
+  light-primary-color: "var(--primary-color)"
   primary-background-color: "#F6F8FA"
   secondary-background-color: "#fafbfc"
   divider-color: "#e1e4e8"
-  accent-color: "#79b8ff"
+  accent-color: "#0366d6"
   # Text
   primary-text-color: "#2f363d"
   secondary-text-color: "#959da5"
-  text-primary-color: var(--primary-text-color)
+  text-primary-color: "#fafbfc"
   disabled-text-color: "#959da5"
   # Sidebar Menu
   sidebar-icon-color: "#6a737d"
@@ -42,7 +43,7 @@ Github Light Theme:
   label-badge-text-color: "#fafbfc"
   label-badge-red: "#d73a49"
   label-badge-green: "#28a745"
-  label-badge-blue: "#0366d6"
+  label-badge-blue: "#2188ff"
   label-badge-yellow: "#ffd33d"
   label-badge-gray: "#6a737d"
   # Cards
